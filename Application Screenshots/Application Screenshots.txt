@@ -1,0 +1,1 @@
+Visual Studio and Git Hub Desktop are missing. 7 zip is also missing.

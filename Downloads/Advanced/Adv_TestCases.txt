@@ -1,0 +1,49 @@
+2. Decoding Roman Numerals
+
+King Julien of the Lemurs tells Gloria the Hippo and Melman the Zebra about a community of
+Geckos. Those Geckos do not use the same numbering system that the Lemurs use. When Gloria
+meets the Geckos, their leader Geckus Leaderus explains that they use Roman Numerals. Help
+Gloria convert the Roman Numerals into decimal (base ten) numerals.
+	Recal that Roman Numerals work as follows: Each numeral-character (I,V,X,L,c) has
+a single value: I=1, V=5, X=10, L=50, C=100. The value of a Roman Numeral is the sum of
+its numeral-characters unless a small numeral-character is placed in front of a larger
+numeral-character, in which case the smaller numeral-character is subtracted from the total.
+For instance, VI=5+1, while IV=5-1.
+You may assume that at most one subtraction is required per number.
+
+Input/output Format:
+
+Inputs are in the form of text strings for Roman numerals, seperated by spaces on a single
+line. Output must a single line for each numeral in the format ""X translated to Y", where
+X is the string for the Roman numeral and Y is its decimal value.
+
+Summary: To find when this program would have a bug you have to find when Roman Numerals
+don't translate well or at all and find invalid characters that could be entered to
+make the program output an error, or you find patterns in Roman Numerals that don't work
+such as I C I which doesn't work because it has more than one addition or subtraction.
+
+Test Cases:
+Input (X)
+I XXXXX V
+Output (Y)
+INVALID (L inplace of XXXXX)
+
+Input (X)
+C L x
+Output (Y)
+INVALID (Lowercase X)
+
+Input (X)
+C, L, X
+Output (Y)
+INVALID (Commas do not need to be used)
+
+Input (X)
+I C I
+Output (Y)
+INVALID (I used on both sides)
+
+Input (X)
+I C 7
+Output (Y)
+INVALID (7 is not valid)

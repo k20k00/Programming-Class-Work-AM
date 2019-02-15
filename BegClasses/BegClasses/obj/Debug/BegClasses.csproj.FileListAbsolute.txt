@@ -1,0 +1,7 @@
+C:\Users\kk2000\Documents\Visual Studio 2017\Projects\BegClasses\BegClasses\bin\Debug\BegClasses.exe.config
+C:\Users\kk2000\Documents\Visual Studio 2017\Projects\BegClasses\BegClasses\bin\Debug\BegClasses.exe
+C:\Users\kk2000\Documents\Visual Studio 2017\Projects\BegClasses\BegClasses\bin\Debug\BegClasses.pdb
+C:\Users\kk2000\Documents\Visual Studio 2017\Projects\BegClasses\BegClasses\obj\Debug\BegClasses.csprojAssemblyReference.cache
+C:\Users\kk2000\Documents\Visual Studio 2017\Projects\BegClasses\BegClasses\obj\Debug\BegClasses.csproj.CoreCompileInputs.cache
+C:\Users\kk2000\Documents\Visual Studio 2017\Projects\BegClasses\BegClasses\obj\Debug\BegClasses.exe
+C:\Users\kk2000\Documents\Visual Studio 2017\Projects\BegClasses\BegClasses\obj\Debug\BegClasses.pdb

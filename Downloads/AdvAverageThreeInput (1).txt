@@ -1,0 +1,17 @@
+/*Learning Objectives:
+  -Identify when to create variables and what data type they should be,
+  -Learn how to get input from the user and convert to numeric type
+  -Use Print statements to display result of something.
+
+Secondary Objective:
+  -Learn to read instructions and determine what is the intended expected behavior of the program
+*/
+
+
+//create a program that calculates the average of three numbers entered as input:
+//asks for 3 numbers(could be decimal values) using the following prompt each time:
+//"Enter a number:"
+
+//add the three numbers together and prints out the result divided by 3 (average) with the following prompt
+//"The average is: " followed by the average value.
+

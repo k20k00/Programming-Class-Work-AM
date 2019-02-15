@@ -1,0 +1,7 @@
+C:\Users\kk2000\Documents\Visual Studio 2017\Projects\FormativeQuestion\FormativeQuestion\obj\Debug\FormativeQuestion.csprojAssemblyReference.cache
+C:\Users\kk2000\Documents\Visual Studio 2017\Projects\FormativeQuestion\FormativeQuestion\obj\Debug\FormativeQuestion.csproj.CoreCompileInputs.cache
+C:\Users\kk2000\Documents\Visual Studio 2017\Projects\FormativeQuestion\FormativeQuestion\bin\Debug\FormativeQuestion.exe.config
+C:\Users\kk2000\Documents\Visual Studio 2017\Projects\FormativeQuestion\FormativeQuestion\bin\Debug\FormativeQuestion.exe
+C:\Users\kk2000\Documents\Visual Studio 2017\Projects\FormativeQuestion\FormativeQuestion\bin\Debug\FormativeQuestion.pdb
+C:\Users\kk2000\Documents\Visual Studio 2017\Projects\FormativeQuestion\FormativeQuestion\obj\Debug\FormativeQuestion.exe
+C:\Users\kk2000\Documents\Visual Studio 2017\Projects\FormativeQuestion\FormativeQuestion\obj\Debug\FormativeQuestion.pdb

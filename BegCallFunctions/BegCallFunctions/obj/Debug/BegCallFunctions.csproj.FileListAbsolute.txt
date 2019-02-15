@@ -1,0 +1,2 @@
+C:\Users\kk2000\Documents\Visual Studio 2017\Projects\BegCallFunctions\BegCallFunctions\obj\Debug\BegCallFunctions.csprojAssemblyReference.cache
+C:\Users\kk2000\Documents\Visual Studio 2017\Projects\BegCallFunctions\BegCallFunctions\obj\Debug\BegCallFunctions.csproj.CoreCompileInputs.cache

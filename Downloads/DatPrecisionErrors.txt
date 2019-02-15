@@ -1,0 +1,10 @@
+Evaluate the following by hand then add to a java project and use print statements or the debugger to verify results.
+What is the value of Var1,Var2,Var3 at the end of running this code.  
+Does this match what you expected? Why does this happen?  What specifically is the cause of these errors?
+
+double Var1 = 1-3*(4/3.0-1);
+double Var2 = (12/11.0-1) *11;
+double Var3 = .1 + .1 + .1 +.1+.1 +.1 + .1 + .1 +.1+.1 -1;
+
+
+Hints: what numbering system is used in computers and how are the numbers above represented in that numbering system.

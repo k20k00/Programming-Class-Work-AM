@@ -1,0 +1,23 @@
+//Create a program in IntelliJ or C# that does the following:
+
+//Prints out the message "Hello, World!"
+//declare a string variable called stringVar and intitialize it to be the string "Why does Waldo wear a striped shirt? "
+//declare a integer variable called myInt and intitialize it to be 10
+//declare a string variable called stringVar2 and initialize it to "Because he does not want to be spotted." 
+
+//print "the number you entered is: "  and the the value of myInt. followed by a new line using 1 line of code
+//print "the number you entered is: "  and the the value of myInt. followed by a new line using 2 lines of code
+//for the above do not type 10, use the variable instead. same for the rest of them.  
+//print the value of stringVar and stringVar2 on 1 line. using 1 line of code
+//print the value of stringVar and stringVar2 on 2 lines. using 2 lines of code
+//print the value of stringVar and stringVar2 on 1 line. using 2 lines of code
+
+/*run the program and make sure the output matches exactly the below output: 
+Hello, World!
+the number you entered is: 10
+the number you entered is: 10
+Why does Waldo wear a striped shirt? Because he does not want to be spotted.
+Why does Waldo wear a striped shirt? 
+Because he does not want to be spotted.
+Why does Waldo wear a striped shirt? Because he does not want to be spotted.
+*/

@@ -1,0 +1,7 @@
+C:\Users\kk2000\Documents\Visual Studio 2017\Projects\intwhileloopsSavingsCalculator\intwhileloopsSavingsCalculator\bin\Debug\intwhileloopsSavingsCalculator.exe.config
+C:\Users\kk2000\Documents\Visual Studio 2017\Projects\intwhileloopsSavingsCalculator\intwhileloopsSavingsCalculator\bin\Debug\intwhileloopsSavingsCalculator.exe
+C:\Users\kk2000\Documents\Visual Studio 2017\Projects\intwhileloopsSavingsCalculator\intwhileloopsSavingsCalculator\bin\Debug\intwhileloopsSavingsCalculator.pdb
+C:\Users\kk2000\Documents\Visual Studio 2017\Projects\intwhileloopsSavingsCalculator\intwhileloopsSavingsCalculator\obj\Debug\intwhileloopsSavingsCalculator.csprojAssemblyReference.cache
+C:\Users\kk2000\Documents\Visual Studio 2017\Projects\intwhileloopsSavingsCalculator\intwhileloopsSavingsCalculator\obj\Debug\intwhileloopsSavingsCalculator.csproj.CoreCompileInputs.cache
+C:\Users\kk2000\Documents\Visual Studio 2017\Projects\intwhileloopsSavingsCalculator\intwhileloopsSavingsCalculator\obj\Debug\intwhileloopsSavingsCalculator.exe
+C:\Users\kk2000\Documents\Visual Studio 2017\Projects\intwhileloopsSavingsCalculator\intwhileloopsSavingsCalculator\obj\Debug\intwhileloopsSavingsCalculator.pdb

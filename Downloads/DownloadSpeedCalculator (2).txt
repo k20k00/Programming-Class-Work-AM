@@ -1,0 +1,34 @@
+/* 
+Instructions:
+	-the program should prompt the user to enter a download speed in Mb/s (Megabits per second). 
+	-it should then prompt the user to enter the size of the file that will be downloaded
+	-it should then ask for the unit for the file to be downloaded: KB,MB or GB (kiloByte,megaByte,gigaByte)
+	-it should then calculate the estimated time to download the file in seconds.
+		(see below examples for how the input output should look like)
+	-you can assume all inputs are valid
+
+
+Note use these conversion rates: 
+	8 bits = 1 Byte
+	and standard metric prefixes (mega =1000 kilo and giga=1000mega)
+
+Example inputs                          Example outputs
+-----------------------------------------------------------
+					Enter a Download Speed(MB/s)
+1					
+					Enter file size
+1
+					Enter: KB, MB or GB	
+MB	
+					8 seconds
+-----------------------------------------------------------
+					Enter a Download Speed(MB/s)
+1					
+					Enter file size
+100
+					Enter: KB, MB or GB	
+KB	
+					.8 seconds
+
+
+*/

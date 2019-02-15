@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvCreateClasses", "AdvCreateClasses\AdvCreateClasses.csproj", "{5E7D1E87-4535-44ED-BB54-9EBAEB9481C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E7D1E87-4535-44ED-BB54-9EBAEB9481C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E7D1E87-4535-44ED-BB54-9EBAEB9481C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E7D1E87-4535-44ED-BB54-9EBAEB9481C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E7D1E87-4535-44ED-BB54-9EBAEB9481C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD020014-A088-46DC-AC3B-095D3F212325}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\kk2000\Documents\Visual Studio 2017\Projects\IntCreateFunction\IntCreateFunction\obj\Debug\IntCreateFunction.csprojAssemblyReference.cache
+C:\Users\kk2000\Documents\Visual Studio 2017\Projects\IntCreateFunction\IntCreateFunction\obj\Debug\IntCreateFunction.csproj.CoreCompileInputs.cache
+C:\Users\kk2000\Documents\Visual Studio 2017\Projects\IntCreateFunction\IntCreateFunction\bin\Debug\IntCreateFunction.exe.config
+C:\Users\kk2000\Documents\Visual Studio 2017\Projects\IntCreateFunction\IntCreateFunction\bin\Debug\IntCreateFunction.exe
+C:\Users\kk2000\Documents\Visual Studio 2017\Projects\IntCreateFunction\IntCreateFunction\bin\Debug\IntCreateFunction.pdb
+C:\Users\kk2000\Documents\Visual Studio 2017\Projects\IntCreateFunction\IntCreateFunction\obj\Debug\IntCreateFunction.exe
+C:\Users\kk2000\Documents\Visual Studio 2017\Projects\IntCreateFunction\IntCreateFunction\obj\Debug\IntCreateFunction.pdb

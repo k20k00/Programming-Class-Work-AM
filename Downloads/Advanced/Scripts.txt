@@ -1,0 +1,184 @@
+SCRIPT 1: Adv_TestCases - Test Cases
+
+It's meant to calculate any Roman Numeral number into numbers so that the animals of
+Madagastar can understand them. I came up with the problem summary by looking at the 
+example test cases to see what they were looking for and what might cause the 
+program to output an error.
+
+GO THROUGH TEST CASES AND SAY WHAT REASON FOR IT WAS - 
+I did each test case which one thing that is slightly off and might not work and gave
+ a reason why it would give an error in the output. 
+ - *I also will make sure to do test cases that test characters that are valid but will give an invalid output* - 
+
+I decided that the test suite was complete because I tried to test all cases that might not work and confirmed what their
+output would be along with a test case that should work as an example of what an ideal input would be. I tried to use
+different characters and character combinations that would probably cause an error because they're not actual Roman Numerals.
+
+SCRIPT 2: Savings+Calculator - Pseudo Code
+
+Pseudo code is designing the steps to solve a problem with code without actually writing the code in a real language.
+It's more brain storming what you will need to do to solve the problem you have to see if it will work or not.
+
+It is useful because if you have an idea of how to solve it then you have an idea of what you have to do when you are 
+actually writing the code and you will know if it works and what steps it will need to work, and as you said for every 
+minute you spend doing prework you save 2 minutes doing the actual work.
+
+My solution design is just calling the variables needed from the user and then using an equation to solve for what their
+balance would be at the end of the year. I did this because if you look at the sample input and output you can see the
+same thing happening except I translated it into pseudo code for this problem. 
+
+I would solve the problem in the same way because I'm not sure how else you would be able to do it, this seems like the
+most simple and straight forward way to solve it with the fewest amount of steps to get to the same output.
+
+SCRIPT 3: Savings+Calculator - Variables
+
+A variable is something that can be changed by inputs or other conditions so that they can used their stored information
+for that input to do the action they were programmed to do.
+
+Variables are useful in programming because they can let the user input information for the program so your program
+can actually do what you want it to do instead of just running the same saved actions over and over automatically. They also
+can save information that can be referred back to throughout whatever program you're using.
+
+The variables I created for this program were all of the things the user would have to input because I need that information
+from the user to be able to calculate the end of year balance of the user and it would be different for every user so 
+I can't have a set number for each that I use to calculate for each person because then it wouldn't be accurate. I named the 
+variables as close to what they were as I could because it is easiest to keep track of what they are inputting that way.
+They are the only variables needed in this program because those are the only inputs needed in the program to get to the 
+end goal outcome.
+
+I don't think there is any other way this problem could be solved that would be any easier than the way I did it, I use
+a basic equation that is the most broken down it can be using the numbers the user inputs to just place each variable 
+into the correct place in the equation. I would do it the same way because it seems the easiest to me and the
+quickest way.
+
+REDO VIDEO FOR VARIABLES: 
+Each variable is changed once, only when the user inputs their number for that section of the equation and then it isn't
+used until all of the numbers are inputted for each section of the equation. The program will only print the 
+end of the year balance once, once all of the variables are entered by the user the equation will be done once and that
+is the only time the end of trhe year balance will be printed for the user. 
+
+I will also need some sort of way for the user to indicate that they're done giving inputs and are ready for an output.
+An alternate way the problem could be solved is using a different equation but i'm not sure what it would be.
+
+
+REDO FOR REDO VARIABLE VIDEO: 
+The starting balance is changed equal to however many years the program is calculating for, the annual contribution
+ and percentage are only changed once when the user inputs it. You know how many times you print out the balance based
+on how many years you are calculating for because you print out each years end of year balance. You might also need to
+add another variable that is the updated balance from the end of each year that is displaued instead of changing
+the starting balance variable so you can keep that information for the user.
+
+Adding the extra variable would be an alternate way of solving the problem and you would do it because it's a more
+organized way and it keeps all of the information in case the user needs it and you can display the starting balance
+and then each years end of year balance at the same time. If you did that way then the variable that changes is the
+new balance variable and it changes once for however many years the user entered.
+
+
+Conditional Explanation Video:
+Conditional statements are statements that have different actions they do depending on what
+certain variables values are or are equal to. They are useful in programming because if you want to have multiple outcomes
+or more than one scenario you don't need to write tons of lines of the same code and you can just have one if statement 
+with lots of else if and else statements with different ways the program could go through a scenario depending on the 
+variables.
+
+For question 1, statements 4 and 8 got printed because none of the other statements were true for the given values
+of the variables so the else statement was that option if nothing else worked and that was true. For question 2,
+statement 3 was printed because the first statement wasn't true but the second one was and the second part of the 
+else if invovled the z variable but it wasn't true so it stayed at the one to print statement 2. For question 4, 
+statement 3 was printed because it's the first statement that had the conditional be true and the else statements after
+it are not true. 
+
+To simplify the problem you remove the nested if statements and replace them with else If statements until the last one
+and for that one you use an else statemnet and you remove the conditonal statement that prints statement 3 because
+it is the exact same as statement 1 so it will never be printed.
+
+Simplified question 4:						
+1.
+						
+X:						
+Y:						
+Z:
+*prints statement 1*
+If (x>2 && y<2){
+	print(statement 1);
+}
+else If (x<2 && y<2){
+	print(statement 2);
+}
+else If (z<5){
+	print(statement 4);
+}
+else If (z==5){
+	print(statement 5);
+}
+else{
+	print(statement 6);
+}
+
+
+Adv_lops1.java Explanation Video:
+A loop is used to repeat a certain action however many times you need depending on different variables until that condition
+is accomplished. They are useful because they can do lots of actions with very few amounts of code.
+
+Question 1 gets printed 20 times, question 2 gets printed 5 times, question 3 is printed 15 times because both variables are
+set to 0 and you do the first loop while x is smaller than 4 and inside of that you do that loop while y is smaller than 6
+and you repeat the y one until it gets to 6 and print hello world once each time and then you go back up to the beginning
+after it adds one to x and it resets y back to 0 so you repeat that process 3 times until x is still smaller than 4, 
+so 3 times. 5 times 3 is 15. you print hello world 5 times because of the y loop and then you do that loop 3 times because
+it's inside of the x loop brackets. Question 4 is printed 86400 times.
+
+Question 4's code multiplies 24 times 60 times 60.
+x's new name would be Hours in a day
+y's new name would be minutes in an hour
+z's new name would be seconds in a minute
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,104 @@
+
+/* Create a program that will take a test score as an input from the user
+prompt using the following line:
+Enter a score:
+
+ and print out the letter grade they recieved.
+ use this scale:
+ 
+ 100-93 : A
+ 92-90  : A-
+ 89-87  : B+
+ 86-83  : B
+ 82-80  : B-
+ 79-77  : C+
+ 76-73  : C
+ 72-70  : C-
+ 69-67  : D+
+ 66-63  : D
+ 62-60  : D-
+ <60    : E
+
+You may assume that they will only enter whole numbers and the numbers will be in the range of 0-100
+
+Test Case Examples:
+
+For this problem you want to find any edge cases that might trip the program up to output the wrong grade. I followed 
+the grading scale and tested each high and each low grade to make sure each one works properly. 
+
+Input       	Output
+		Enter a score:
+89
+		Your grade: B+
+
+100
+		Your grade: A
+
+93
+		Your grade: A
+
+92
+		Your grade: A-
+
+90
+		Your grade: A-
+
+89
+		Your grade: B+
+
+87
+		Your grade: B+
+
+86
+		Your grade: B
+
+83
+		Your grade: B
+
+82
+		Your grade: B-
+
+80
+		Your grade: B-
+
+79
+		Your grade: C+
+
+77		
+		Your grade: C+
+
+76		
+		Your grade: C
+
+73
+		Your grade: C
+
+72
+		Your grade: C-
+
+70
+		Your grade: C-
+
+69
+		Your grade: D+
+
+67
+		Your grade: D+
+
+66
+		Your grade: D
+
+63
+		Your grade: D
+
+62
+		Your grade: D-
+
+60
+		Your grade: D-
+
+60
+		Your grade: E
+
+<60
+		Your grade: E

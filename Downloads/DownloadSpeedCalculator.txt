@@ -1,0 +1,153 @@
+/* 
+Instructions:
+	-the program should prompt the user to enter a download speed in Mb/s (Megabits per second). 
+	-it should then prompt the user to enter the size of the file that will be downloaded
+	-it should then ask for the unit for the file to be downloaded: KB,MB or GB (kiloByte,megaByte,gigaByte)
+	-it should then calculate the estimated time to download the file in seconds.
+		(see below examples for how the input output should look like)
+	-if the user entered an invalid input it should print "invalid input" and close the program
+
+
+Note use these conversion rates: 
+	8 bits = 1 Byte
+	and standard metric prefixes (mega =1000 kilo and giga=1000mega)
+
+Example inputs                          Example outputs
+-----------------------------------------------------------
+					Enter a Download Speed(Mb/s)
+1					
+					Enter file size
+1
+					Enter: KB, MB or GB	
+MB	
+					8 seconds
+-----------------------------------------------------------
+					Enter a Download Speed(Mb/s)
+1					
+					Enter file size
+100
+					Enter: KB, MB or GB	
+KB	
+					.8 seconds
+-----------------------------------------------------------
+					Enter a Download Speed(Mb/s)
+1					
+					Enter file size
+1
+					Enter: KB, MB or GB	
+bob	
+					Invalid input
+-----------------------------------------------------------
+					Enter a Download Speed(Mb/s)
+1					
+					Enter file size
+MB
+					Invalid input
+-----------------------------------------------------------
+					Enter a Download Speed(Mb/s)
+frank					
+					Invalid input
+
+*/
+-----------------------------------------------------------
+For this problem you would want to test for each file type to see if it converts correctly
+and make sure it is able to react correctly to negative numbers. You will also want to
+test for if the download speed it bigger in a smaller unit and the file size is smaller
+in a bigger unit.
+-----------------------------------------------------------
+					Enter a Download Speed(Mb/s)
+1
+					Enter File Size
+1,000
+					Enter: Kb, Mb, or Gb
+Kb
+					1 second
+-----------------------------------------------------------
+					Enter a Download Speed(Mb/s)
+-1
+					Enter File Size
+1
+					Enter: Kb, Mb, or Gb
+Mb
+					Invalid Time (Negative Download Speed)
+-----------------------------------------------------------
+					Enter a Download Speed(Mb/s)
+1
+					Enter File Size
+1
+					Enter: Kb, Mb, or Gb
+Gb
+					1,000 seconds
+-----------------------------------------------------------
+					Enter a Download Speed(Mb/s)
+1000
+					Enter File Size
+1
+					Enter: Kb, Mb, or Gb
+Gb
+					1 second
+-----------------------------------------------------------
+					Enter a Download Speed(Mb/s)
+-1
+					Enter File Size
+1
+					Enter: Kb, Mb, or Gb
+Gb
+					Invalid Time (Negative Download Speed)
+-----------------------------------------------------------
+					Enter a Download Speed(Mb/s)
+1000
+					Enter File Size
+1
+					Enter: Kb, Mb, or Gb
+Kb
+					.001 seconds
+-----------------------------------------------------------
+					Enter a Download Speed(Mb/s)
+1000
+					Enter File Size
+1
+					Enter: Kb, Mb, or Gb
+Mb
+					.001 seconds
+-----------------------------------------------------------
+					Enter a Download Speed(Mb/s)
+1
+					Enter File Size
+1
+					Enter: Kb, Mb, or Gb
+Mb
+					1 second
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

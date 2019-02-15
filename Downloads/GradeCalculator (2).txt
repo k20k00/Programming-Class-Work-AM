@@ -1,0 +1,63 @@
+
+/* Create a program that will take a test score as an input from the user
+prompt using the following line:
+Enter a score:
+
+ and print out the letter grade they recieved.
+ use this scale:
+ 
+ 100-93 : A
+ 92-90  : A-
+ 89-87  : B+
+ 86-83  : B
+ 82-80  : B-
+ 79-77  : C+
+ 76-73  : C
+ 72-70  : C-
+ 69-67  : D+
+ 66-63  : D
+ 62-60  : D-
+ <60    : E
+
+You may assume that they will only enter whole numbers and the numbers will be in the range of 0-100
+
+Test Case Examples:
+
+Input       	Output
+		Enter a score:
+89
+		Your grade: B+
+
+ */
+
+Variable Assignment (Beg_Variables1) - 
+ - Variable for the grade entered by the student. 
+
+*Each variable is only changed once*
+
+print "Enter a score"
+read input from user (grade)
+If (input = 100-93)
+print "A"
+Else If (input (grade) = 92-90)
+print "A-"
+Else If (input (grade) = 89-87)
+print "B+"
+Else If (input (grade) = 86-83)
+print "B"
+Else If (input (grade) = 82-80)
+print "B-"
+Else If (input (grade) = 79-77)
+print "C+"
+Else If (input (grade) = 76-73)
+print "C"
+Else If (input (grade) = 72-70)
+print "C-"
+Else If (input (grade) = 69-67)
+print "D+"
+Else If (input (grade) = 66-63)
+print "D"
+Else If (input (grade) = 62-60)
+print "D-"
+Else 
+print "E"

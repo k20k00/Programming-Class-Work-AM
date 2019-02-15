@@ -1,0 +1,10 @@
+/* Create while loops that print out the below*/
+//hint: use the variable that you increment to help track number of times a loop was ran.
+
+//the numbers between 1 and 10;
+
+//Print "Testing Loops" 500 times
+
+//Print "current loop iteration: " and the current number of times that this message was printed.  100 times.
+
+

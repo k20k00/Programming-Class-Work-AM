@@ -1,0 +1,69 @@
+/* 
+Instructions:
+	-the program should prompt the user to enter a download speed in Mb/s (Megabits per second). 
+	-it should then prompt the user to enter the size of the file that will be downloaded
+	-it should then ask for the unit for the file to be downloaded: KB,MB or GB (kiloByte,megaByte,gigaByte)
+	-it should then calculate the estimated time to download the file in seconds.
+		(see below examples for how the input output should look like)
+	-if the user entered an invalid input it should print "invalid input" and close the program
+
+
+Note use these conversion rates: 
+	8 bits = 1 Byte
+	and standard metric prefixes (mega =1000 kilo and giga=1000mega)
+
+Example inputs                          Example outputs
+-----------------------------------------------------------
+					Enter a Download Speed(MB/s)
+1					
+					Enter file size
+1
+					Enter: KB, MB or GB	
+MB	
+					8 seconds
+-----------------------------------------------------------
+					Enter a Download Speed(MB/s)
+1					
+					Enter file size
+100
+					Enter: KB, MB or GB	
+KB	
+					.8 seconds
+-----------------------------------------------------------
+					Enter a Download Speed(MB/s)
+1					
+					Enter file size
+1
+					Enter: KB, MB or GB	
+bob	
+					Invalid input
+-----------------------------------------------------------
+					Enter a Download Speed(MB/s)
+1					
+					Enter file size
+MB
+					Invalid input
+-----------------------------------------------------------
+					Enter a Download Speed(MB/s)
+frank					
+					Invalid input
+
+*/
+
+Variable Assignment (DownloadSpeedCalculator) - 
+ - numb1 is the variable entered by the user to find out the download speed that is being used to get the amount of time the download will take
+ - numb2 is the variable entered by the user to find out the size of the file so you can divide that by the download speed while they are in 
+similar file types (Mb and Mb or Gb and Gb etc..)
+
+*Each variable is changed once by the user*
+
+int numb1
+int numb2
+
+print "Enter download speed (Mb/s)"
+read input from user (numb1)
+print "Enter the size of the file to be downloaded"
+read input from user (numb2)
+print "unit for the file to be downloaded: KB,MB or GB"
+read input from user (check for valid input)
+print numb2 "Estimated download time"

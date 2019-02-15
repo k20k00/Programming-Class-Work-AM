@@ -1,0 +1,37 @@
+Learning Targets:
+
+I can create a class.
+Learn how to create instance variables, methods and constructors in a class.
+
+Create a class called: "Student"
+
+The class should have the following properties:
+
+studentID 		(int)
+name    		(String)
+contentGrade	(double)
+workHabitGrade	(double)
+participation	(double)
+age     		(int)
+
+
+
+The class should have a constructor that takes in a String and 2 ints (Name,ID,age) and
+initializes name,studentID and age to be the values of the inputs of the constructor.
+all 3 grades should be initialized to 0;
+
+The class should have a second constructor that takes no inputs.  This should initialize the fields:
+
+
+
+The class should have the following methods  (they all should return nothing):
+
+SetContentGrade(int grade)  - sets the contentGrade property to be the value of grade
+
+SetWorkHabitGrade(int grade) -> sets the workHabitGrade property to be the value of grade
+
+SetParticipation(int grade) -> sets the participation property to be the value of grade
+
+GetGrade() -> returns the overall grade  (.35*workHabitGrade + .4*contentGrade +.25*participation)
+
+printGrade() -> prints the overall grade (same as above)

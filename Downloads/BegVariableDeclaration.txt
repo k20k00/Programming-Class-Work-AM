@@ -1,0 +1,13 @@
+//Create a program the follows the comments. (remember // or /*...*/ mark comments)
+
+//declare an integer variable called myInt and initialize it to 6
+//declare an integer variable called myInt2 and initialize it to 12
+//declare an integer variable called coolVariable and initialize it to -5
+//declare a double precision floating point number called myDouble and initialize it to 12.45
+//declare a double precision floating point number called myDouble2 and initialize it to 123.3415
+//declare a double precision floating point number called aNumberForThings
+//declare a string variable called myString and initialize it to the value "Frank"
+//declare a string variable called myString2 and initialize it to the value "Bob"
+//declare a string variable called myStringNumber and initialize it to the value "2.231"
+//assign the value 15 to the variable coolVariable
+//assign the value 123.234 to the variable aNumberForThings

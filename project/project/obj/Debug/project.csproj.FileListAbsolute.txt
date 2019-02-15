@@ -1,0 +1,7 @@
+C:\Users\kk2000\Documents\Visual Studio 2017\Projects\project\project\obj\Debug\project.csprojAssemblyReference.cache
+C:\Users\kk2000\Documents\Visual Studio 2017\Projects\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\kk2000\Documents\Visual Studio 2017\Projects\project\project\bin\Debug\project.exe.config
+C:\Users\kk2000\Documents\Visual Studio 2017\Projects\project\project\bin\Debug\project.exe
+C:\Users\kk2000\Documents\Visual Studio 2017\Projects\project\project\bin\Debug\project.pdb
+C:\Users\kk2000\Documents\Visual Studio 2017\Projects\project\project\obj\Debug\project.exe
+C:\Users\kk2000\Documents\Visual Studio 2017\Projects\project\project\obj\Debug\project.pdb

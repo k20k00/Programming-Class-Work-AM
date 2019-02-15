@@ -1,0 +1,91 @@
+/*
+Problem Statement:
+Create a numeric sequence detector: This will continually ask the user for a single digit number
+and if the last 4 numbers match a "secret" sequence (we can just hard code this to: 117)
+it will say congratulations and stop asking the user for aditional numbers
+
+Additional requirements:  
+-it should allow the user to renter a number and not mess up the sequence if what they entered is not a single digit number
+-use the prompts below in the samples
+
+hint:  
+	the "continue" command will go back to the start of a loop, without having to get to the end of the loop.
+	the "break" command will exit out of the loop, without going to the end of the loop or checking the condition.
+
+----------------------------------------------------------
+Sample input                    Sample Output
+				enter a digit
+1
+				enter a digit
+1
+				enter a digit
+7
+				Congratulations!
+----------------------------------------------------------
+Sample input                    Sample Output
+				enter a digit
+1
+				enter a digit
+2
+				enter a digit
+1
+				enter a digit
+b
+				not a didget
+				enter a digit
+1
+				enter a digit
+7
+				Congratulations!
+----------------------------------------------------------
+Sample input                    Sample Output
+				enter a digit
+1
+				enter a digit
+1
+				enter a digit
+b
+				not a didget
+				enter a digit
+71
+				not a didget
+				enter a digit
+7
+				Congratulations!
+----------------------------------------------------------
+Sample input                    Sample Output
+				enter a digit
+1
+				enter a digit
+1
+				enter a digit
+7
+				Congratulations!
+----------------------------------------------------------
+Sample input                    Sample Output
+				enter a digit
+1
+				enter a digit
+1
+				enter a digit
+7
+				Congratulations!
+----------------------------------------------------------
+Sample input                    Sample Output
+				enter a digit
+1
+				enter a digit
+1
+				enter a digit
+6
+				enter a digit
+3
+				enter a digit
+1
+				enter a digit
+1
+				enter a digit
+7
+				Congratulations!
+				
+*/

@@ -1,0 +1,7 @@
+C:\Users\kk2000\Documents\Visual Studio 2017\Projects\AdvGuessNumber\AdvGuessNumber\obj\Debug\AdvGuessNumber.csprojAssemblyReference.cache
+C:\Users\kk2000\Documents\Visual Studio 2017\Projects\AdvGuessNumber\AdvGuessNumber\obj\Debug\AdvGuessNumber.csproj.CoreCompileInputs.cache
+C:\Users\kk2000\Documents\Visual Studio 2017\Projects\AdvGuessNumber\AdvGuessNumber\bin\Debug\AdvGuessNumber.exe.config
+C:\Users\kk2000\Documents\Visual Studio 2017\Projects\AdvGuessNumber\AdvGuessNumber\bin\Debug\AdvGuessNumber.exe
+C:\Users\kk2000\Documents\Visual Studio 2017\Projects\AdvGuessNumber\AdvGuessNumber\bin\Debug\AdvGuessNumber.pdb
+C:\Users\kk2000\Documents\Visual Studio 2017\Projects\AdvGuessNumber\AdvGuessNumber\obj\Debug\AdvGuessNumber.exe
+C:\Users\kk2000\Documents\Visual Studio 2017\Projects\AdvGuessNumber\AdvGuessNumber\obj\Debug\AdvGuessNumber.pdb

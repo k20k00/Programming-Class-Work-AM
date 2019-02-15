@@ -1,0 +1,7 @@
+C:\Users\kk2000\Documents\GitHub\Programming-Class-Work-AM\BeamCalculator\BeamCalculator\obj\Debug\BeamCalculator.csprojAssemblyReference.cache
+C:\Users\kk2000\Documents\GitHub\Programming-Class-Work-AM\BeamCalculator\BeamCalculator\obj\Debug\BeamCalculator.csproj.CoreCompileInputs.cache
+C:\Users\kk2000\Documents\GitHub\Programming-Class-Work-AM\BeamCalculator\BeamCalculator\bin\Debug\BeamCalculator.exe.config
+C:\Users\kk2000\Documents\GitHub\Programming-Class-Work-AM\BeamCalculator\BeamCalculator\bin\Debug\BeamCalculator.exe
+C:\Users\kk2000\Documents\GitHub\Programming-Class-Work-AM\BeamCalculator\BeamCalculator\bin\Debug\BeamCalculator.pdb
+C:\Users\kk2000\Documents\GitHub\Programming-Class-Work-AM\BeamCalculator\BeamCalculator\obj\Debug\BeamCalculator.exe
+C:\Users\kk2000\Documents\GitHub\Programming-Class-Work-AM\BeamCalculator\BeamCalculator\obj\Debug\BeamCalculator.pdb

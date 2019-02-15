@@ -1,0 +1,7 @@
+C:\Users\kk2000\Documents\Visual Studio 2017\Projects\AdvLoopsPrimeNumber\AdvLoopsPrimeNumber\bin\Debug\AdvLoopsPrimeNumber.exe.config
+C:\Users\kk2000\Documents\Visual Studio 2017\Projects\AdvLoopsPrimeNumber\AdvLoopsPrimeNumber\bin\Debug\AdvLoopsPrimeNumber.exe
+C:\Users\kk2000\Documents\Visual Studio 2017\Projects\AdvLoopsPrimeNumber\AdvLoopsPrimeNumber\bin\Debug\AdvLoopsPrimeNumber.pdb
+C:\Users\kk2000\Documents\Visual Studio 2017\Projects\AdvLoopsPrimeNumber\AdvLoopsPrimeNumber\obj\Debug\AdvLoopsPrimeNumber.csprojAssemblyReference.cache
+C:\Users\kk2000\Documents\Visual Studio 2017\Projects\AdvLoopsPrimeNumber\AdvLoopsPrimeNumber\obj\Debug\AdvLoopsPrimeNumber.csproj.CoreCompileInputs.cache
+C:\Users\kk2000\Documents\Visual Studio 2017\Projects\AdvLoopsPrimeNumber\AdvLoopsPrimeNumber\obj\Debug\AdvLoopsPrimeNumber.exe
+C:\Users\kk2000\Documents\Visual Studio 2017\Projects\AdvLoopsPrimeNumber\AdvLoopsPrimeNumber\obj\Debug\AdvLoopsPrimeNumber.pdb

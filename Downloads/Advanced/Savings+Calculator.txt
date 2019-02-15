@@ -1,0 +1,46 @@
+
+/*Create a program that will simulate savings in the stock market. 
+The program should prompt for several input using the following prompts:
+Enter Starting Balance:
+Enter Yearly Contribution:
+Enter Average Return On Investment as %:
+Enter Number of years:
+The program should calculate the balance at the end of each year.
+
+Sample input:		Sample Output:
+					Enter Starting Balance in dollars
+1000
+					Enter Yearly Contribution in dollars
+100
+					Enter Average Return on Investment as %
+5
+					Enter Number of years for the report.
+3
+					Year 0: 1000.00
+					Year 1: 1155.00
+					Year 2: 1317.75
+					Year 3: 1488.64
+*/
+
+Summary: For this you need to set the  for each thing the user inputs so that you can 
+create an equation at the end to find out the actual average return on the investment as a 
+percentage so in the end you would do 
+(Starting Balance +  (yearly contribution * number of years)) * average return on investment)
+
+Variable Assignment (Savings+Calculator) - 
+ - The Starting balance is a variable entered by the user
+ - The yearly contribution is a variable entered by the user
+ - The Average Return on Investment % is a variable entered by the user
+ - The number of Years is a variable entered by the user
+
+*Each variable is changed once*
+
+get Starting Balance
+read input from user
+get Yearly Contribution
+read input from user
+get Average Return on Investment %
+read input from user
+get Number of Years
+read input from user
+do equation for end of year balance and tell user
